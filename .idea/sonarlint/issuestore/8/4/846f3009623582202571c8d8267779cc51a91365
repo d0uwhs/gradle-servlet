@@ -1,8 +1,0 @@
-
-l	java:S127-"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
-q
-java:S1989""VHandle the following exception that could be thrown by "getOutputStream": IOException.(£­ÛÙıÿÿÿÿ
-g
-java:S1989$"LHandle the following exception that could be thrown by "write": IOException.(•¾Êşÿÿÿÿ
-D
-java:S2140*")Use "java.util.Random.nextInt()" instead.(àÚÆ¦ıÿÿÿÿ

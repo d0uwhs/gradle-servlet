@@ -18,7 +18,7 @@ public class ServerServlet extends HttpServlet {
          * Build 된 이후에도 파일경로를 찾아 파일을 쓸 수 있는 방법은?
          *
          */
-        FileInputStream fin = new FileInputStream("./img/fileserver.png");
+        FileInputStream fin = new FileInputStream("./fileserver.png");
         resp.setContentType("image/jpg");
         byte[] arr = new byte[1024 * 8];
         while (true) {
