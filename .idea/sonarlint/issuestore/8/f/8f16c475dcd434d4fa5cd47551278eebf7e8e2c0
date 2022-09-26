@@ -1,0 +1,14 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+\
+java:S1989"AHandle the "RuntimeException" thrown here in a "try/catch" block.(Ò‚Òéüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Œå°È
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¿è®Î
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›Óð°þÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ò¤µæ
+>
+java:S1185!"(Remove this method to simply inherit it.(üª¼í
+{
+java:S1989%"`Handle the following exceptions that could be thrown by "doPost": ServletException, IOException.(Í†»Öúÿÿÿÿ
